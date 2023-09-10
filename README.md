@@ -1,9 +1,12 @@
-# tinyfetch
-a simple fetch in C which is tiny and fast.. it takes 0.002 to 0.004s to fetch
+# tinierfetch
 
-# depends
-- only c compiler and `TERM`, `LANG`, `USER`, `SHELL` environmental variables
+it's tinyfetch but also tinier - you could probably fit this in a QR code
+takes `0.001` to `0.003s` to fetch
 
-# preview
+## depends
 
-![master](2023-09-09-225931_294x283_scrot.png)
+a compiler (I used g++) and `TERM`, `LANG`, `USER`, `SHELL` environmental variables to be set
+
+## preview
+
+![yeah](./preview.png)
