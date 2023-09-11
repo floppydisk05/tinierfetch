@@ -1,2 +1,4 @@
 *.out
-fetch
+fetch*
+target*
+bin*
